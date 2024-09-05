@@ -3,3 +3,18 @@ pyrecon/config.py
 *.pyc
 __pycache__/
 pyvenv.cfg
+/pyrecon_env/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.env/
+
+# IDE-specific
+.vscode/
+.idea/
