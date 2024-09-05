@@ -1,0 +1,5 @@
+pyrecon/config.py
+.env
+*.pyc
+__pycache__/
+pyvenv.cfg

@@ -1,0 +1,4 @@
+requests
+nmap
+whois
+matplotlib
