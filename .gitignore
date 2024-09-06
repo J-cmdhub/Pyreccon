@@ -1,4 +1,4 @@
-pyrecon/config.py
+pyrecccon/config.py
 .env
 *.pyc
 __pycache__/
