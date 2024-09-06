@@ -163,3 +163,5 @@ cython_debug/
 #plaintext
 config.py
      
+# Ignore .env file
+.env
